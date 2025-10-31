@@ -32,7 +32,7 @@ To understand food price trends and derive actionable insights that can inform p
 ## About the Dataset
 - Source: National Bureau of Statistics, Nigeria.
 - Format: CSV
-- Key Fields: Date (Recording date of price), Food Item (Food Item Name), Outlet Type (Market type where food item is sold), State (Geographic location of market), Price (Item price in Nigerian Naira per Kg)
+- Key Fields: Date (Recording date of food price, 2024 - 2025), Food Item (Food Item Name), Outlet Type (Market type where food item is sold), State (Geographic location of market), Price (Item price in Nigerian Naira per Kg)
 - N/B: Dataset was filtered to only capture food prices in Lagos, Ogun, and Oyo, as these were the target states for FarmyHub Naija LTD.
 
 ## Project Workflow
@@ -48,7 +48,22 @@ To understand food price trends and derive actionable insights that can inform p
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) for Predictive Modelling.
 
 ## Insights and Recommendations
-### 1. 
+### 1. Overall Average Food Prices
+Brown Beans, White Beans and Imported Rice, ranked the most expensive foods across all states and sectors, while Garri was the cheapest.
+
+### 2. Overall Average Food Prices by Sector
+Average food prices in Lagos state was higher in urban markets. Surprisingly, Oyo and Ogun state showed higher average food prices from rural markets. WHY.......... 
+
+### 3. Overall Average Food Prices by LGA
+- In Lagos state, average food prices were highest in Ibeju Lekki and lowest in and Ajeromi/Ifelodun, Ojo, Ikorodu.
+- In Ogun state, average food prices were highest in Ifo and lowest in Ipokia.
+- In Oyo state, average food prices were highest in Akinyele and lowest in and Irepo. WHY............
+
+### 4. Overall Average Food Prices by Outlet Type
+- Overall food prices were lowest in 'City Markets' highest (N1.24K), surprisingly lower than the prices of food gotten 'Directly from Farmers'. WHY.............
+- 'Supermarkets' had the highest average food price, followed by 'Local Village Markets'.
+
+### 5. 
 
 ## Future Work
 - Creating a model that directly scrapes data from reliable online sources (like the NBS) and feeds into the company's dashboard for real-time price monitoring
