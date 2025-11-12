@@ -1,4 +1,4 @@
-# Pricing Recommendation Strategy
+# Food Price Recommendation Strategy
 
 ## Background
 Agricultural markets are inherently volatile — prices of food commodities fluctuate due to factors such as seasonality, transportation costs, supply chain inefficiencies, and regional demand differences.
@@ -51,7 +51,7 @@ To understand food price trends and derive actionable insights that can inform p
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) for Predictive Modelling.
 
 ## Dashboard
-An interactive dashboard for the food price analysis can be accessed [here]().
+An interactive dashboard for the food price analysis can be accessed [here](https://app.powerbi.com/view?r=eyJrIjoiMjlkZTBjNDgtZmQ0Zi00YzQzLWIwNjItY2I2OGM2ZTU5NzdlIiwidCI6IjJjYzg3ZmM4LTY5NDQtNDUzMC1hNThlLTFjMDY0MTE4NTYzMCJ9).
 
 ## Insights from Analysis
 ### 1. Overall Average Food Prices
