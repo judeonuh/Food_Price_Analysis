@@ -6,7 +6,7 @@ For FarmGrow Naija LTD, an agritech startup, understanding these variations is c
 - Setting competitive yet profitable prices for their products.
 - Anticipating market changes and managing risk.
 - Supporting farmers and vendors with fair and transparent pricing recommendations.
-Currently, FarmyGrow Naija LTD lacks a structured approach to analyzing historical and regional food price data. This project addresses that gap by developing a data-driven framework to monitor and interpret price movements and suggest pricing strategies to the stakeholders.
+Currently, FarmGrow Naija LTD lacks a structured approach to analyzing historical and regional food price data. This project addresses that gap by developing a data-driven framework to monitor and interpret price movements and suggest pricing strategies to the stakeholders.
 
 ## 📁 Table of Contents
 - [Background](#background)
