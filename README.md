@@ -53,6 +53,8 @@ To understand food price trends and derive actionable insights that can inform p
 ## Dashboard
 An interactive dashboard for the food price analysis can be accessed [here](https://app.powerbi.com/view?r=eyJrIjoiNmM1OGY2MWItM2NkMy00NGFkLTk2YTUtYzM0ZDExMDFkMThmIiwidCI6IjJjYzg3ZmM4LTY5NDQtNDUzMC1hNThlLTFjMDY0MTE4NTYzMCJ9).
 
+![dashboard](Price_analysis_dashboard.png)
+
 ## Insights from Analysis
 ### 1. Overall Average Food Prices
 - Brown Beans, White Beans and Imported Rice ranked the most expensive foods across all states and sectors
