@@ -51,9 +51,9 @@ To understand food price trends and derive actionable insights that can inform p
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) for Predictive Modelling.
 
 ## Dashboard
-An interactive dashboard for the food price analysis can be accessed [here](https://app.powerbi.com/view?r=eyJrIjoiNmM1OGY2MWItM2NkMy00NGFkLTk2YTUtYzM0ZDExMDFkMThmIiwidCI6IjJjYzg3ZmM4LTY5NDQtNDUzMC1hNThlLTFjMDY0MTE4NTYzMCJ9).
+An interactive dashboard for the food price analysis can be accessed [here](https://app.powerbi.com/view?r=eyJrIjoiYzY1OWE2ZDktMTY5OC00ZGM4LWJiOWYtZDc0M2ZlOGExZDg1IiwidCI6IjJjYzg3ZmM4LTY5NDQtNDUzMC1hNThlLTFjMDY0MTE4NTYzMCJ9)
 
-![dashboard](Price_analysis_dashboard.png)
+![dashboard](farmgrow_dashboard.png)
 
 ## Insights from Analysis
 ### 1. Overall Average Food Prices
