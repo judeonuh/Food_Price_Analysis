@@ -8,6 +8,15 @@ For FarmGrow Naija LTD, an agritech startup, understanding these variations is c
 - Supporting farmers and vendors with fair and transparent pricing recommendations.
 Currently, FarmGrow Naija LTD lacks a structured approach to analyzing historical and regional food price data. This project addresses that gap by developing a data-driven framework to monitor and interpret price movements and suggest pricing strategies to the stakeholders.
 
+---
+
+## Dashboard
+An interactive dashboard for the food price analysis can be accessed [here](https://app.powerbi.com/view?r=eyJrIjoiMDkyZDM2NDgtYjgxOC00MzgwLWEzOTUtOGI5ODliMjFmZjhkIiwidCI6IjJjYzg3ZmM4LTY5NDQtNDUzMC1hNThlLTFjMDY0MTE4NTYzMCJ9)
+
+![dashboard](farmgrow_dashboard_v2.png)
+
+---
+
 ## 📁 Table of Contents
 - [Background](#background)
 - [Aim](#aim)
@@ -15,7 +24,6 @@ Currently, FarmGrow Naija LTD lacks a structured approach to analyzing historica
 - [About the Dataset](#about-the-dataset)
 - [Project Workflow](#project-workflow)
 - [Tools and Technologies](#tools-and-technologies)
-- [Dashboard](#dashboard)
 - [Insights from Analysis](#insights-from-analysis)
 - [Pricing Recommendations](#pricing-recommendations)
 - [Conclusion](#conclusion)
@@ -49,11 +57,6 @@ To understand food price trends and derive actionable insights that can inform p
 - Power Query for Data Cleaning.
 - PowerBI for Visualisation. 
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) for Predictive Modelling.
-
-## Dashboard
-An interactive dashboard for the food price analysis can be accessed [here](https://app.powerbi.com/view?r=eyJrIjoiMDkyZDM2NDgtYjgxOC00MzgwLWEzOTUtOGI5ODliMjFmZjhkIiwidCI6IjJjYzg3ZmM4LTY5NDQtNDUzMC1hNThlLTFjMDY0MTE4NTYzMCJ9)
-
-![dashboard](farmgrow_dashboard_v2.png)
 
 ## Insights from Analysis
 ### 1. Overall Average Food Prices
