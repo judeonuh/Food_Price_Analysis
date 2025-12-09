@@ -53,7 +53,7 @@ To understand food price trends and derive actionable insights that can inform p
 ## Dashboard
 An interactive dashboard for the food price analysis can be accessed [here](https://app.powerbi.com/view?r=eyJrIjoiMDkyZDM2NDgtYjgxOC00MzgwLWEzOTUtOGI5ODliMjFmZjhkIiwidCI6IjJjYzg3ZmM4LTY5NDQtNDUzMC1hNThlLTFjMDY0MTE4NTYzMCJ9)
 
-![dashboard](farmgrow_dashboard.png)
+![dashboard](farmgrow_dashboard_v2.png)
 
 ## Insights from Analysis
 ### 1. Overall Average Food Prices
