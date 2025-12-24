@@ -11,9 +11,9 @@ Currently, FarmGrow Naija LTD lacks a structured approach to analyzing historica
 ---
 
 ## Dashboard
-An interactive dashboard for the food price analysis can be accessed [here](https://app.powerbi.com/view?r=eyJrIjoiMDkyZDM2NDgtYjgxOC00MzgwLWEzOTUtOGI5ODliMjFmZjhkIiwidCI6IjJjYzg3ZmM4LTY5NDQtNDUzMC1hNThlLTFjMDY0MTE4NTYzMCJ9)
+An interactive dashboard for the food price analysis can be accessed [here](https://app.powerbi.com/view?r=eyJrIjoiZGFjZGY1OTctNjczMC00NDQxLTgxYTMtNTViN2MxOTMyODBmIiwidCI6IjJjYzg3ZmM4LTY5NDQtNDUzMC1hNThlLTFjMDY0MTE4NTYzMCJ9)
 
-![dashboard](farmgrow_dashboard_v2.png)
+![dashboard](Price_analysis_dashboard_v3.png)
 
 ---
 
